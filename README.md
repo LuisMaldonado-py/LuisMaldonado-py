@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Luis Enrique Maldonado de la Torre</h1>
+<h1 align="center">I'm Luis Enrique Maldonado de la Torre</h1>
 <h3 align="center">Ingeniería Civil Estructural</h3>
 
-- 🔭 Estoy tranajando como **Diseñador Estructural**
+ **Diseñador Estructural**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
