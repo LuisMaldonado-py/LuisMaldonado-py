@@ -1,5 +1,5 @@
 <h1 align="center">Luis Enrique Maldonado de la Torre</h1>
-<h3 align="center">Ingeniería Civil - Analisis y Diseño Estructural</h3>
+<h3 align="center">Ingeniería Civil - Analísis y Diseño Estructural</h3>
 
 [![Portada-Git-Hub.png](https://i.postimg.cc/7Z0fvg6L/Portada-Git-Hub.png)](https://postimg.cc/pmV2z5KN)
 
