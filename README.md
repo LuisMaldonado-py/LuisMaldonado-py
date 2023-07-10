@@ -5,7 +5,9 @@
 
 
 🙋‍♂️ ¡Hola! Soy Luis Maldonado, egresado de la carrera Ingeniería Civil en la Universidad Nacional de Ingeniería. Con interés en la optimizacion, Análisis y Diseño Estructural y la metodología BIM. 
+
 👷‍♂️ Motivado para enfrentar nuevos desafíos, poder aportar todo mi empeño y con muchas ganas de aprender.
+
 🧑‍🏫 Me capacito de manera continua para estar al día en la parte Teorico-Practico y en el uso de softwares de Modelado, Análisis y Diseño Estructural y la programación con Python para optimizar procesos.
 
 🤓 Si quieres conocer un poco más lo que hago, te invito a que revises las publicaciones que he realizado.
