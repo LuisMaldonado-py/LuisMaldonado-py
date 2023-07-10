@@ -4,6 +4,22 @@
 [![Portada-Git-Hub.png](https://i.postimg.cc/7Z0fvg6L/Portada-Git-Hub.png)](https://postimg.cc/pmV2z5KN)
 
 
+🙋‍♂️ ¡Hola! Soy Luis Maldonado, egresado de la carrera Ingeniería Civil en la Universidad Nacional de Ingeniería. Con interés en la optimizacion, Análisis y Diseño Estructural y la metodología BIM. 
+👷‍♂️ Motivado para enfrentar nuevos desafíos, poder aportar todo mi empeño y con muchas ganas de aprender.
+🧑‍🏫 Me capacito de manera continua para estar al día en la parte Teorico-Practico y en el uso de softwares de Modelado, Análisis y Diseño Estructural y la programación con Python para optimizar procesos.
+
+🤓 Si quieres conocer un poco más lo que hago, te invito a que revises las publicaciones que he realizado.
+
+Conocimiento en:
+ - ETABS
+ - SAP2000
+ - SAFE
+ - Microsoft Excel
+ - AutoCad
+ - Revit Estructuras
+ - Python
+ - Ofimatica
+
 
 <h3 align="left">Connect with me:</h3>
 <p![image](https://github.com/LuisMaldonado98/LuisMaldonado98/assets/85284891/f4942a3c-88b2-4c3c-91f4-62dc77cf3e7f)
