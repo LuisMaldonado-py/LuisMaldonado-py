@@ -1,7 +1,7 @@
 <h1 align="center">Luis Enrique Maldonado de la Torre</h1>
 <h3 align="center">Ingeniería Civil - Analisis y Diseño Estructural</h3>
 
-[![Portada-Git-Hub.png](https://postimg.cc/pmV2z5KN](https://github.com/LuisMaldonado98/LuisMaldonado98/blob/main/Portada%20GitHub.png?raw=true)
+[![Portada-Git-Hub.png](https://i.postimg.cc/7Z0fvg6L/Portada-Git-Hub.png)](https://postimg.cc/pmV2z5KN)
 
 <h3 align="left"> Sobre mi:</h3>
 🙋‍♂️ ¡Hola! Soy Luis Maldonado, egresado de la carrera In![image](https://github.com/LuisMaldonado98/LuisMaldonado98/assets/85284891/b1a14a50-beec-4e2f-b575-f7e8bd068363)
