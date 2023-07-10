@@ -5,9 +5,7 @@
 
 
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/luis-maldonado-de-la-torre)
-
 [![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)]([https://youtube.com/EduardoFierroPro?sub_confirmation=1](https://www.youtube.com/@luismaldonado4458/featured))
-
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/LuisMaldonado98)
 
 <h3 align="left"> Sobre mi:</h3>
