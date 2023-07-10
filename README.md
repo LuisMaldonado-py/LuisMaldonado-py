@@ -2,7 +2,7 @@
 <h3 align="center">Ingeniería Civil - Analísis y Diseño Estructural</h3>
 
 [![Portada-Git-Hub.png](https://i.postimg.cc/7Z0fvg6L/Portada-Git-Hub.png)](https://postimg.cc/pmV2z5KN)
-
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/luis-maldonado-de-la-torre)
 <h3 align="left"> Sobre mi:</h3>
 🙋‍♂️ ¡Hola! Soy Luis Maldonado, egresado de la carrera Ingeniería Civil en la Universidad Nacional de Ingeniería. Con interés en la optimizacion, Análisis y Diseño Estructural y la metodología BIM. 
 
