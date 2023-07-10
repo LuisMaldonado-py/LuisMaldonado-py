@@ -1,7 +1,7 @@
 <h1 align="center">I'm Luis Enrique Maldonado de la Torre</h1>
 <h3 align="center">Ingeniería Civil Estructural</h3>
 
-https://github.com/LuisMaldonado98/LuisMaldonado98/blob/084c65f9ac27157c9c17dc27a20b64c4b3513b5b/Portada%20GitHub.png![image](https://github.com/LuisMaldonado98/LuisMaldonado98/assets/85284891/5a362c5d-2c4d-455c-ae3a-906f4f7a2e86)
+![image](https://github.com/LuisMaldonado98/LuisMaldonado98/assets/85284891/5a362c5d-2c4d-455c-ae3a-906f4f7a2e86)
 
 
  **Diseñador Estructural**
