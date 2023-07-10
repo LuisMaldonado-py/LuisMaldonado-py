@@ -1,7 +1,7 @@
 <h1 align="center">I'm Luis Enrique Maldonado de la Torre</h1>
 <h3 align="center">Ingeniería Civil Estructural</h3>
 
-![image](Portada GitHub.png)
+[![Portada-Git-Hub.png](https://i.postimg.cc/7Z0fvg6L/Portada-Git-Hub.png)](https://postimg.cc/pmV2z5KN)
 
 
  **Diseñador Estructural**
