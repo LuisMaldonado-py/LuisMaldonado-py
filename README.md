@@ -31,7 +31,7 @@ Conocimiento en:
 
 
 <a href='https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop' title="Charlas de programación con Código Vikingo - ver en Youtube" target='_blank'>
-  <img width='30%' src='https://i.postimg.cc/nz26XcFm/Captura-de-pantalla-2023-07-10-052850.png' alt='Charlas de programación con Código Vikingo' />
+  <img width='30.5%' src='https://i.postimg.cc/nz26XcFm/Captura-de-pantalla-2023-07-10-052850.png' alt='Charlas de programación con Código Vikingo' />
 </a>
 <a href='https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-algoritmos-estructuras-activity-7029842237098274817-5kst/?utm_source=share&utm_medium=member_desktop' title="Charlas de programación con Código Vikingo - ver en Youtube" target='_blank'>
   <img width='31%' src='https://i.postimg.cc/C15R25QM/Captura-de-pantalla-2023-07-10-052439.png' alt='Charlas de programación con Código Vikingo' />
