@@ -34,8 +34,9 @@ Conocimiento en:
 <a href='https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop' title="Charlas de programación con Código Vikingo - ver en Youtube" target='_blank'>
   <img width='32%' src='https://i.postimg.cc/DzjVxwGc/Automatizacion-del-Analisis-S-smico.png' alt='Charlas de programación con Código Vikingo' />
 </a>
-
-
+<a href='https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-algoritmos-estructuras-activity-7029842237098274817-5kst/?utm_source=share&utm_medium=member_desktop' title="Charlas de programación con Código Vikingo - ver en Youtube" target='_blank'>
+  <img width='32%' src='https://i.postimg.cc/C15R25QM/Captura-de-pantalla-2023-07-10-052439.png' alt='Charlas de programación con Código Vikingo' />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p![image](https://github.com/LuisMaldonado98/LuisMaldonado98/assets/85284891/f4942a3c-88b2-4c3c-91f4-62dc77cf3e7f)
