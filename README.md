@@ -10,7 +10,7 @@
 
 
 <h3 align="left"> Sobre mi:</h3>
-🙋‍♂️ ¡Hola! Soy Luis Maldonado, egresado de la carrera Ingeniería Civil en la Universidad Nacional de Ingeniería. Con interés en la optimizacion, Análisis y Diseño Estructural y la metodología BIM. 
+🙋‍♂️ ¡Hola! Soy Luis Maldonado, egresado de la carrera Ingeniería Civil en la **Universidad Nacional de Ingeniería**. Con interés en la optimizacion, Análisis y Diseño Estructural y la metodología BIM. 
 
 👷‍♂️ Motivado para enfrentar nuevos desafíos, poder aportar todo mi empeño y con muchas ganas de aprender.
 
@@ -27,6 +27,13 @@ Conocimiento en:
  - Revit Estructuras
  - Python
  - Ofimatica
+
+
+
+<a href='https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop' title="Charlas de programación con Código Vikingo - ver en Youtube" target='_blank'>
+  <img width='32%' src='https://i3.ytimg.com/vi/P51PMs0sKys/maxresdefault.jpg' alt='Charlas de programación con Código Vikingo' />
+</a>
+
 
 
 <h3 align="left">Connect with me:</h3>
