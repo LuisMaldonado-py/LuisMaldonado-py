@@ -31,7 +31,7 @@ Conocimiento en:
 
 
 <a href='https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop' title="Charlas de programación con Código Vikingo - ver en Youtube" target='_blank'>
-  <img width='32%' src='https://postimg.cc/FfLnRmDf' />
+  <img width='32%' src='https://postimg.cc/FfLnRmDf'/>
 </a>
 
 
