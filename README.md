@@ -16,26 +16,31 @@
 
 <img align="right" width="120" src="assets/uni-logo.png" alt="Universidad Nacional de Ingeniería"/>
 
-Soy **Ingeniero Civil** de la **Universidad Nacional de Ingeniería (Perú)**, enfocado en el **análisis sísmico y diseño estructural**. Me apasiona unir la ingeniería con la programación: desarrollo herramientas en **Python** para automatizar cálculos, verificar diseños y entender mejor el comportamiento de las estructuras.
+Soy **Ingeniero Civil** de la **Universidad Nacional de Ingeniería (Perú)** y actualmente curso el **Diplomado en Análisis Sísmico y Diseño Sismorresistente de Estructuras** en la **Pontificia Universidad Católica de Chile**. Me apasiona unir la ingeniería con la programación: desarrollo herramientas en **Python** para automatizar cálculos, verificar diseños y entender mejor el comportamiento de las estructuras.
 
-- 🏗️ **Trabajo en:** análisis y diseño de edificaciones de concreto armado (E.030, E.060, ACI 318)
-- 🐍 **Programo:** scripts y apps para ingeniería estructural — API de ETABS, diagramas de interacción, dinámica estructural
-- 📚 **Aprendiendo:** análisis no lineal, OpenSeesPy y despliegue de apps de ingeniería en la web
-- 🎥 **Comparto:** contenido técnico en LinkedIn y YouTube
-- 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/luis-maldonado-de-la-torre)
+Formo parte del **Directorio de Investigación y Desarrollo en INESA TECH (España)** y pronto estaremos dictando el taller *"Automatización en Ingeniería Estructural con Programación e IA"* 🚀
 
-<!-- TODO Luis: ajusta las viñetas de arriba a tu situación actual (cargo/empresa, estudios de posgrado, etc.) -->
+He sido **asistente de investigación** en el Equipo de Innovación del **Laboratorio de Diseño y Construcción Virtual BIM – FIC UNI**, y he trabajado en startups internacionales desarrollando apps web en **VIKTOR.ai** (Países Bajos) y **CalcTree** (Australia), orientadas a automatizar cálculos y verificaciones estructurales.
+
+- 🏗️ **Trabajo en:** análisis y diseño de edificaciones de concreto armado
+- 🐍 **Programo:** scripts y apps para automatizar la ingeniería estructural
+- 🎥 **Me gusta compartir:** contenido técnico en [LinkedIn](https://www.linkedin.com/in/luis-maldonado-de-la-torre) y videos cortos en [TikTok](https://www.tiktok.com/@structural_tech) con Structural Tech
+
+📫 **Contacto:**<br>
+[lmaldonadod@uni.pe](mailto:lmaldonadod@uni.pe)<br>
+[lmaldonadod@uc.cl](mailto:lmaldonadod@uc.cl)
 
 ---
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Stack |
+| Proyecto | Descripción | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|---|
-| 📐 **[Diagrama de Interacción](https://github.com/LuisMaldonado-py/Diagrama-de-Interaccion)** | Cálculo y gráfica del diagrama de interacción P–M de columnas de concreto armado. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| 〰️ **[Mass-Spring-Damper 1GDL](https://github.com/LuisMaldonado-py/Mass-spring-damper--1-DOF)** | Simulación y animación de un sistema de 1 grado de libertad sometido a excitación en la base. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| 📘 **[Python para Ing. Estructural](https://github.com/LuisMaldonado-py/Ejemplo-Libro-Ing-Estructural)** | Ejemplos prácticos de Python aplicado a vigas, columnas y secciones: NumPy, Pandas, SymPy, Matplotlib. | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| 🌐 **[Portafolio](https://luismaldonado-py.github.io)** | Mi portafolio de ingeniería estructural. | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| 🏗️ **Structural Design** <br><sub>🚧 En desarrollo</sub> | Suite de diseño automatizado de elementos estructurales según la **E.060**: vigas, columnas y cimentación, con extracción en vivo del modelo de ETABS. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" height="26" title="Python"/> <img src="https://cdn.simpleicons.org/electron/47848F" height="26" title="Electron"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" height="26" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" height="26" title="TypeScript"/> |
+| 📐 **[Diagrama de Interacción](https://github.com/LuisMaldonado-py/Diagrama-de-Interaccion)** | Cálculo y gráfica del diagrama de interacción P–M de columnas de concreto armado. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" height="26" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jupyter/jupyter-original.svg" height="26" title="Jupyter"/> |
+| 〰️ **[Mass-Spring-Damper 1GDL](https://github.com/LuisMaldonado-py/Mass-spring-damper--1-DOF)** | Simulación y animación de un sistema de 1 grado de libertad sometido a excitación en la base. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" height="26" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/numpy/numpy-original.svg" height="26" title="NumPy"/> |
+| 📘 **[Python para Ing. Estructural](https://github.com/LuisMaldonado-py/Ejemplo-Libro-Ing-Estructural)** | Ejemplos prácticos de Python aplicado a vigas, columnas y secciones: NumPy, Pandas, SymPy, Matplotlib. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jupyter/jupyter-original.svg" height="26" title="Jupyter"/> <img src="https://cdn.simpleicons.org/pandas/E70488" height="26" title="Pandas"/> |
+| 🌐 **[Portafolio](https://luismaldonado-py.github.io)** | Mi portafolio de ingeniería estructural. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" height="26" title="HTML5"/> |
 
 ---
 
@@ -47,7 +52,7 @@ Soy **Ingeniero Civil** de la **Universidad Nacional de Ingeniería (Perú)**, e
   <img src="https://skillicons.dev/icons?i=py,html,css,git,github,vscode,latex&perline=7" alt="lenguajes"/>
 </p>
 
-**Ingeniería estructural y BIM**
+**Softwares de Ingeniería Estructural**
 
 <p align="left">
   <img src="https://img.shields.io/badge/ETABS-1F4E79?style=for-the-badge"/>
@@ -63,16 +68,14 @@ Soy **Ingeniero Civil** de la **Universidad Nacional de Ingeniería (Perú)**, e
 
 ## 🎥 Publicaciones y charlas
 
+Participo en eventos académicos —congresos, simposios, conferencias, talleres y webinars— donde divulgo sobre la **automatización de procesos en ingeniería estructural** y el uso de **IA y Machine Learning** para estimar la **vulnerabilidad sísmica** de edificaciones.
+
 <p align="center">
-  <a href="https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp">
-    <img width="31%" src="https://i.postimg.cc/nz26XcFm/Captura-de-pantalla-2023-07-10-052850.png" alt="Python + API de ETABS"/>
-  </a>
-  <a href="https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-algoritmos-estructuras-activity-7029842237098274817-5kst">
-    <img width="31%" src="https://i.postimg.cc/C15R25QM/Captura-de-pantalla-2023-07-10-052439.png" alt="Algoritmos para estructuras"/>
-  </a>
-  <a href="https://www.linkedin.com/posts/luis-maldonado-de-la-torre_diagrama-de-interaccion-python-activity-6995179859094216704-2UdK">
-    <img width="31%" src="https://i.postimg.cc/15DwZgJJ/Captura-de-pantalla-2023-07-10-053905.png" alt="Diagrama de interacción con Python"/>
-  </a>
+  <img height="150" src="assets/charlas/2026-coneic-cusco.jpg" alt="CONEIC Cusco 2026"/>
+  <img height="150" src="assets/charlas/2025-ceinci-lab.jpg" alt="CEINCI-LAB 2025"/>
+  <img height="150" src="assets/charlas/2024-siie-pucp.jpg" alt="SIIE PUCP 2024"/>
+  <img height="150" src="assets/charlas/2024-eeri-pucp.jpg" alt="EERI PUCP"/>
+  <img height="150" src="assets/charlas/2023-bim-vdc-uni.jpg" alt="Laboratorio BIM y VDC – FIC UNI"/>
 </p>
 
 ---
